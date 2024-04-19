@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240326-1814-Experimental"
+	Name="Feymann"
+	Generator="ctest-3.29.0-rc4"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="Feymann"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="7"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="34588"
+	TotalPhysicalMemory="32540"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Mar 26 15:47 Bahia Standard Time</StartDateTime>
+		<StartTestTime>1711478872</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 26 15:47 Bahia Standard Time</EndDateTime>
+		<EndTestTime>1711478872</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libcommandline.a CMakeFiles/commandline.dir/src/windows_impl.cpp.obj CMakeFiles/commandline.dir/src/linux_impl.cpp.obj CMakeFiles/commandline.dir/src/backends/InteractiveBackend.cpp.obj CMakeFiles/commandline.dir/src/backends/Backend.cpp.obj CMakeFiles/commandline.dir/src/commandline.cpp.obj CMakeFiles/commandline.dir/src/backends/BufferedBackend.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libcommandline.a

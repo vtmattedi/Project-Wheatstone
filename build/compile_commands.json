@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/Projects/C++/App1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/App1.dir/includes_CXX.rsp -g -o CMakeFiles\\App1.dir\\main.cpp.obj -c D:\\Projects\\C++\\App1\\main.cpp",
+  "file": "D:/Projects/C++/App1/main.cpp",
+  "output": "CMakeFiles/App1.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline.dir\\src\\windows_impl.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\windows_impl.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/windows_impl.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline.dir/src/windows_impl.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline.dir\\src\\linux_impl.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\linux_impl.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/linux_impl.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline.dir/src/linux_impl.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline.dir\\src\\backends\\InteractiveBackend.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\backends\\InteractiveBackend.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/backends/InteractiveBackend.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline.dir/src/backends/InteractiveBackend.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline.dir\\src\\backends\\Backend.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\backends\\Backend.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/backends/Backend.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline.dir/src/backends/Backend.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline.dir\\src\\commandline.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\commandline.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/commandline.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline.dir/src/commandline.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline.dir\\src\\backends\\BufferedBackend.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\backends\\BufferedBackend.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/backends/BufferedBackend.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline.dir/src/backends/BufferedBackend.cpp.obj"
+},
+{
+  "directory": "D:/Projects/C++/App1/build/Libs/CommandLine",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DPLATFORM_WINDOWS=1 @CMakeFiles/commandline_test.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\commandline_test.dir\\src\\main.cpp.obj -c D:\\Projects\\C++\\App1\\Libs\\CommandLine\\src\\main.cpp",
+  "file": "D:/Projects/C++/App1/Libs/CommandLine/src/main.cpp",
+  "output": "Libs/CommandLine/CMakeFiles/commandline_test.dir/src/main.cpp.obj"
+}
+]
